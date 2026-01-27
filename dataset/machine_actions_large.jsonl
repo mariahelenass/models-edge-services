@@ -9659,4 +9659,4 @@
 {"user_content": "cobra cento e cinquenta e três reais e vinte centavos no pix", "tool_name": "pagamento", "tool_arguments": {"valor": 153.2, "metodo_pagamento": "pix"}}
 {"user_content": "debita trezentos e sessenta e oito reais e cinquenta centavos", "tool_name": "pagamento", "tool_arguments": {"valor": 368.5, "metodo_pagamento": "debito"}}
 {"user_content": "vou pagar quatrocentos e quinze reais no credito", "tool_name": "pagamento", "tool_arguments": {"valor": 415.0, "metodo_pagamento": "credito"}}
-{"user_content": "debita cento e vinte e oito reais", "tool_name": "pagamento", "tool_arguments": {"valor": 128.0, "metodo_pagamento": "credito"}}
+{"user_content": "debita cento e vinte e oito reais no credito", "tool_name": "pagamento", "tool_arguments": {"valor": 128.0, "metodo_pagamento": "credito"}}
