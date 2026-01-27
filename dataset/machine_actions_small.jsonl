@@ -253,3 +253,113 @@
 {"user_content":"realizar pagamento de setenta e oito reais e trinta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":78.30,"metodo_pagamento":"credito"}}
 {"user_content":"pagar trinta e nove reais e oitenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":39.80,"metodo_pagamento":"credito"}}
 {"user_content":"processar pagamento de noventa e um reais e cinquenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":91.50,"metodo_pagamento":"credito"}}
+{"user_content":"pagar trinta e nove reais e oitenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":39.80,"metodo_pagamento":"credito"}}
+{"user_content":"pagar cinquenta e dois reais e noventa centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":52.90,"metodo_pagamento":"credito"}}
+{"user_content":"pagar dezessete reais e vinte e cinco centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":17.25,"metodo_pagamento":"credito"}}
+{"user_content":"pagar oitenta e quatro reais e dez centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":84.10,"metodo_pagamento":"credito"}}
+{"user_content":"pagar vinte e nove reais e noventa e nove centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":29.99,"metodo_pagamento":"credito"}}
+{"user_content":"pagar sessenta e sete reais e quarenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":67.40,"metodo_pagamento":"credito"}}
+{"user_content":"pagar doze reais e oitenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":12.80,"metodo_pagamento":"credito"}}
+{"user_content":"pagar noventa e três reais e cinquenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":93.50,"metodo_pagamento":"credito"}}
+{"user_content":"pagar quarenta e seis reais e setenta e cinco centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":46.75,"metodo_pagamento":"credito"}}
+{"user_content":"pagar vinte e dois reais e dez centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":22.10,"metodo_pagamento":"credito"}}
+{"user_content":"pagar setenta e oito reais e sessenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":78.60,"metodo_pagamento":"credito"}}
+{"user_content":"pagar cinco reais e noventa centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":5.90,"metodo_pagamento":"credito"}}
+{"user_content":"pagar cem reais e vinte centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":100.20,"metodo_pagamento":"credito"}}
+{"user_content":"pagar trinta e quatro reais e quarenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":34.40,"metodo_pagamento":"credito"}}
+{"user_content":"pagar sessenta e um reais e quinze centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":61.15,"metodo_pagamento":"credito"}}
+{"user_content":"pagar dezenove reais e noventa centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":19.90,"metodo_pagamento":"credito"}}
+{"user_content":"pagar oitenta e oito reais e trinta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":88.30,"metodo_pagamento":"credito"}}
+{"user_content":"pagar quarenta e um reais e sessenta e cinco centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":41.65,"metodo_pagamento":"credito"}}
+{"user_content":"pagar vinte e sete reais e cinquenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":27.50,"metodo_pagamento":"credito"}}
+{"user_content":"pagar setenta e dois reais e noventa e cinco centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":72.95,"metodo_pagamento":"credito"}}
+{"user_content":"pagar trinta e nove reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":39,"metodo_pagamento":"credito"}}
+{"user_content":"pagar cinquenta e dois reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":52,"metodo_pagamento":"credito"}}
+{"user_content":"pagar dezessete reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":17,"metodo_pagamento":"credito"}}
+{"user_content":"pagar oitenta e quatro reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":84,"metodo_pagamento":"credito"}}
+{"user_content":"pagar vinte e nove reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":29,"metodo_pagamento":"credito"}}
+{"user_content":"pagar sessenta e sete reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":67,"metodo_pagamento":"credito"}}
+{"user_content":"pagar doze reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":12,"metodo_pagamento":"credito"}}
+{"user_content":"pagar noventa e três reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":93,"metodo_pagamento":"credito"}}
+{"user_content":"pagar quarenta e seis reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":46,"metodo_pagamento":"credito"}}
+{"user_content":"pagar vinte e dois reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":22,"metodo_pagamento":"credito"}}
+{"user_content":"pagar setenta e oito reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":78,"metodo_pagamento":"credito"}}
+{"user_content":"pagar cinco reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":5,"metodo_pagamento":"credito"}}
+{"user_content":"pagar cem reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":100,"metodo_pagamento":"credito"}}
+{"user_content":"pagar trinta e quatro reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":34,"metodo_pagamento":"credito"}}
+{"user_content":"pagar sessenta e um reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":61,"metodo_pagamento":"credito"}}
+{"user_content":"pagar dezenove reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":19,"metodo_pagamento":"credito"}}
+{"user_content":"pagar oitenta e oito reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":88,"metodo_pagamento":"credito"}}
+{"user_content":"pagar quarenta e um reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":41,"metodo_pagamento":"credito"}}
+{"user_content":"pagar vinte e sete reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":27,"metodo_pagamento":"credito"}}
+{"user_content":"pagar setenta e dois reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":72,"metodo_pagamento":"credito"}}
+{"user_content":"passa trinta e nove reais no pix","tool_name":"pagamento","tool_arguments":{"valor":39,"metodo_pagamento":"pix"}}
+{"user_content":"pode cobrar cinquenta e dois reais no pix","tool_name":"pagamento","tool_arguments":{"valor":52,"metodo_pagamento":"pix"}}
+{"user_content":"quero pagar dezessete reais no pix","tool_name":"pagamento","tool_arguments":{"valor":17,"metodo_pagamento":"pix"}}
+{"user_content":"manda oitenta e quatro reais no pix","tool_name":"pagamento","tool_arguments":{"valor":84,"metodo_pagamento":"pix"}}
+{"user_content":"cobra vinte e nove reais no pix","tool_name":"pagamento","tool_arguments":{"valor":29,"metodo_pagamento":"pix"}}
+{"user_content":"coloca sessenta e sete reais no pix","tool_name":"pagamento","tool_arguments":{"valor":67,"metodo_pagamento":"pix"}}
+{"user_content":"vou pagar doze reais no pix","tool_name":"pagamento","tool_arguments":{"valor":12,"metodo_pagamento":"pix"}}
+{"user_content":"pode lançar noventa e três reais no pix","tool_name":"pagamento","tool_arguments":{"valor":93,"metodo_pagamento":"pix"}}
+{"user_content":"fecha quarenta e seis reais no pix","tool_name":"pagamento","tool_arguments":{"valor":46,"metodo_pagamento":"pix"}}
+{"user_content":"pode ser vinte e dois reais no pix","tool_name":"pagamento","tool_arguments":{"valor":22,"metodo_pagamento":"pix"}}
+{"user_content":"passa setenta e oito reais no pix","tool_name":"pagamento","tool_arguments":{"valor":78,"metodo_pagamento":"pix"}}
+{"user_content":"vou mandar cinco reais no pix","tool_name":"pagamento","tool_arguments":{"valor":5,"metodo_pagamento":"pix"}}
+{"user_content":"pode cobrar cem reais no pix","tool_name":"pagamento","tool_arguments":{"valor":100,"metodo_pagamento":"pix"}}
+{"user_content":"joga trinta e quatro reais no pix","tool_name":"pagamento","tool_arguments":{"valor":34,"metodo_pagamento":"pix"}}
+{"user_content":"faz sessenta e um reais no pix","tool_name":"pagamento","tool_arguments":{"valor":61,"metodo_pagamento":"pix"}}
+{"user_content":"vou quitar dezenove reais no pix","tool_name":"pagamento","tool_arguments":{"valor":19,"metodo_pagamento":"pix"}}
+{"user_content":"passa oitenta e oito reais no pix","tool_name":"pagamento","tool_arguments":{"valor":88,"metodo_pagamento":"pix"}}
+{"user_content":"pode registrar quarenta e um reais no pix","tool_name":"pagamento","tool_arguments":{"valor":41,"metodo_pagamento":"pix"}}
+{"user_content":"manda vinte e sete reais no pix","tool_name":"pagamento","tool_arguments":{"valor":27,"metodo_pagamento":"pix"}}
+{"user_content":"fecha setenta e dois reais no pix","tool_name":"pagamento","tool_arguments":{"valor":72,"metodo_pagamento":"pix"}}
+{"user_content":"passa trinta e nove reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":39,"metodo_pagamento":"credito"}}
+{"user_content":"pode cobrar cinquenta e dois reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":52,"metodo_pagamento":"credito"}}
+{"user_content":"quero pagar dezessete reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":17,"metodo_pagamento":"credito"}}
+{"user_content":"manda oitenta e quatro reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":84,"metodo_pagamento":"credito"}}
+{"user_content":"cobra vinte e nove reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":29,"metodo_pagamento":"credito"}}
+{"user_content":"coloca sessenta e sete reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":67,"metodo_pagamento":"credito"}}
+{"user_content":"vou pagar doze reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":12,"metodo_pagamento":"credito"}}
+{"user_content":"pode lançar noventa e três reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":93,"metodo_pagamento":"credito"}}
+{"user_content":"fecha quarenta e seis reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":46,"metodo_pagamento":"credito"}}
+{"user_content":"pode ser vinte e dois reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":22,"metodo_pagamento":"credito"}}
+{"user_content":"passa setenta e oito reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":78,"metodo_pagamento":"credito"}}
+{"user_content":"vou mandar cinco reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":5,"metodo_pagamento":"credito"}}
+{"user_content":"pode cobrar cem reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":100,"metodo_pagamento":"credito"}}
+{"user_content":"joga trinta e quatro reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":34,"metodo_pagamento":"credito"}}
+{"user_content":"faz sessenta e um reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":61,"metodo_pagamento":"credito"}}
+{"user_content":"vou quitar dezenove reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":19,"metodo_pagamento":"credito"}}
+{"user_content":"passa oitenta e oito reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":88,"metodo_pagamento":"credito"}}
+{"user_content":"pode registrar quarenta e um reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":41,"metodo_pagamento":"credito"}}
+{"user_content":"manda vinte e sete reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":27,"metodo_pagamento":"credito"}}
+{"user_content":"fecha setenta e dois reais no crédito","tool_name":"pagamento","tool_arguments":{"valor":72,"metodo_pagamento":"credito"}}
+{"user_content":"passa quinze reais no pix","tool_name":"pagamento","tool_arguments":{"valor":15,"metodo_pagamento":"pix"}}
+{"user_content":"pode cobrar quarenta e oito reais no pix","tool_name":"pagamento","tool_arguments":{"valor":48,"metodo_pagamento":"pix"}}
+{"user_content":"vou mandar vinte e três reais no pix","tool_name":"pagamento","tool_arguments":{"valor":23,"metodo_pagamento":"pix"}}
+{"user_content":"cobra noventa reais no pix","tool_name":"pagamento","tool_arguments":{"valor":90,"metodo_pagamento":"pix"}}
+{"user_content":"coloca trinta e sete reais no pix","tool_name":"pagamento","tool_arguments":{"valor":37,"metodo_pagamento":"pix"}}
+{"user_content":"fecha sessenta e cinco reais no pix","tool_name":"pagamento","tool_arguments":{"valor":65,"metodo_pagamento":"pix"}}
+{"user_content":"pode ser oito reais no pix","tool_name":"pagamento","tool_arguments":{"valor":8,"metodo_pagamento":"pix"}}
+{"user_content":"manda setenta e quatro reais no pix","tool_name":"pagamento","tool_arguments":{"valor":74,"metodo_pagamento":"pix"}}
+{"user_content":"passa dezenove reais no pix","tool_name":"pagamento","tool_arguments":{"valor":19,"metodo_pagamento":"pix"}}
+{"user_content":"vou pagar cinquenta e seis reais no pix","tool_name":"pagamento","tool_arguments":{"valor":56,"metodo_pagamento":"pix"}}
+{"user_content":"pode lançar trinta e dois reais no pix","tool_name":"pagamento","tool_arguments":{"valor":32,"metodo_pagamento":"pix"}}
+{"user_content":"cobra oitenta e um reais no pix","tool_name":"pagamento","tool_arguments":{"valor":81,"metodo_pagamento":"pix"}}
+{"user_content":"joga vinte e sete reais no pix","tool_name":"pagamento","tool_arguments":{"valor":27,"metodo_pagamento":"pix"}}
+{"user_content":"faz quarenta e quatro reais no pix","tool_name":"pagamento","tool_arguments":{"valor":44,"metodo_pagamento":"pix"}}
+{"user_content":"vou mandar sessenta e nove reais no pix","tool_name":"pagamento","tool_arguments":{"valor":69,"metodo_pagamento":"pix"}}
+{"user_content":"passa onze reais no pix","tool_name":"pagamento","tool_arguments":{"valor":11,"metodo_pagamento":"pix"}}
+{"user_content":"pode cobrar noventa e cinco reais no pix","tool_name":"pagamento","tool_arguments":{"valor":95,"metodo_pagamento":"pix"}}
+{"user_content":"fecha vinte e seis reais no pix","tool_name":"pagamento","tool_arguments":{"valor":26,"metodo_pagamento":"pix"}}
+{"user_content":"manda trinta e oito reais no pix","tool_name":"pagamento","tool_arguments":{"valor":38,"metodo_pagamento":"pix"}}
+{"user_content":"vou pagar sessenta reais no pix","tool_name":"pagamento","tool_arguments":{"valor":60,"metodo_pagamento":"pix"}}
+{"user_content":"pode ser noventa e dois reais no pix","tool_name":"pagamento","tool_arguments":{"valor":92,"metodo_pagamento":"pix"}}
+{"user_content":"cobra vinte e um reais no pix","tool_name":"pagamento","tool_arguments":{"valor":21,"metodo_pagamento":"pix"}}
+{"user_content":"passa quarenta reais no pix","tool_name":"pagamento","tool_arguments":{"valor":40,"metodo_pagamento":"pix"}}
+{"user_content":"vou mandar setenta reais no pix","tool_name":"pagamento","tool_arguments":{"valor":70,"metodo_pagamento":"pix"}}
+{"user_content":"pode lançar dezoito reais no pix","tool_name":"pagamento","tool_arguments":{"valor":18,"metodo_pagamento":"pix"}}
+{"user_content":"fecha cinquenta e nove reais no pix","tool_name":"pagamento","tool_arguments":{"valor":59,"metodo_pagamento":"pix"}}
+{"user_content":"manda oitenta e seis reais no pix","tool_name":"pagamento","tool_arguments":{"valor":86,"metodo_pagamento":"pix"}}
+{"user_content":"vou pagar vinte e quatro reais no pix","tool_name":"pagamento","tool_arguments":{"valor":24,"metodo_pagamento":"pix"}}
+{"user_content":"pode cobrar trinta e três reais no pix","tool_name":"pagamento","tool_arguments":{"valor":33,"metodo_pagamento":"pix"}}
+{"user_content":"passa sessenta e três reais no pix","tool_name":"pagamento","tool_arguments":{"valor":63,"metodo_pagamento":"pix"}}
