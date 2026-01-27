@@ -497,7 +497,8 @@
 {"user_content":"pode cobrar quarenta e seis reais e oitenta centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":46.80,"metodo_pagamento":"credito"}}
 {"user_content":"vou pagar trinta e um reais e dez centavos no pix","tool_name":"pagamento","tool_arguments":{"valor":31.10,"metodo_pagamento":"pix"}}
 {"user_content":"fecha sessenta e quatro reais e noventa centavos no crédito","tool_name":"pagamento","tool_arguments":{"valor":64.90,"metodo_pagamento":"credito"}}
-{"user_content":"manda vinte e oito reais e quarenta centavos no pix","tool_name":"pagamento","tool_arguments":{"valor":28.40,"metodo_pagamento":"pix"}}{"user_content":"passa quinze reais e cinquenta centavos no débito","tool_name":"pagamento","tool_arguments":{"valor":15.50,"metodo_pagamento":"debito"}}
+{"user_content":"manda vinte e oito reais e quarenta centavos no pix","tool_name":"pagamento","tool_arguments":{"valor":28.40,"metodo_pagamento":"pix"}}
+{"user_content":"passa quinze reais e cinquenta centavos no débito","tool_name":"pagamento","tool_arguments":{"valor":15.50,"metodo_pagamento":"debito"}}
 {"user_content":"pode cobrar quarenta e oito reais e noventa centavos no débito","tool_name":"pagamento","tool_arguments":{"valor":48.90,"metodo_pagamento":"debito"}}
 {"user_content":"vou pagar vinte e três reais e dez centavos no débito","tool_name":"pagamento","tool_arguments":{"valor":23.10,"metodo_pagamento":"debito"}}
 {"user_content":"cobra noventa reais e setenta centavos no débito","tool_name":"pagamento","tool_arguments":{"valor":90.70,"metodo_pagamento":"debito"}}
