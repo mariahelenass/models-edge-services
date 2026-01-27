@@ -1,3 +1,4 @@
 *.gguf filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 functiongemma-transformers-functiongemma-270m-it-v1/* filter=lfs diff=lfs merge=lfs -text
+functiongemma-270m-it/ filter=lfs diff=lfs merge=lfs -text
